@@ -1192,5 +1192,17 @@
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swiggy.com%2Frestaurants%2Fmisal-katta-com-locality-vishrambag-sangli-111094&psig=AOvVaw3x0AKG1XURbDDxSewteJhl&ust=1664643290430000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjFndP9vPoCFQAAAAAdAAAAABAE",
         "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
 
-    }
+    },
+	{
+        "id": 97,
+        "placeOfOrigin": "India",
+        "region": "Punjab",
+        "city": "Punjab",
+        "food" : "Chole kulche",
+        "type": "Street Food ",
+        "foodEnergy": "250 cal",
+        "rating": "4",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Frecipes.timesofindia.com%2Frecipes%2Fchole-kulche%2Frs73514385.cms&psig=AOvVaw28qXVpZB6XCVDNKtNbr26L&ust=1665432043456000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOiKyPz30_oCFQAAAAAdAAAAABAE",
+        "location": "https://goo.gl/maps/tp9BPuPpc6vr1w7G9"
+    },
 ]
