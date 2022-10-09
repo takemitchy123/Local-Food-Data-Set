@@ -1179,5 +1179,18 @@
         "rating": "5",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Food-Dhokla.jpg/1200px-Food-Dhokla.jpg",
         "location": "https://goo.gl/maps/ydLaxy4JW6o8HY7C7"
-    }
+    },
+	 {
+        "id": 96,
+        "placeOfOrigin": "India",
+        "region": "Sangli",
+        "city": "Sangli",
+        "food" : "Pav Misal",
+        "type": "Street Food ",
+        "foodEnergy": "157 cal",
+        "rating": "4",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swiggy.com%2Frestaurants%2Fmisal-katta-com-locality-vishrambag-sangli-111094&psig=AOvVaw3x0AKG1XURbDDxSewteJhl&ust=1664643290430000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjFndP9vPoCFQAAAAAdAAAAABAE",
+        "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
+
+    },
 ]
