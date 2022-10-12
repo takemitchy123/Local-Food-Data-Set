@@ -1206,3 +1206,15 @@
         "location": "https://goo.gl/maps/tp9BPuPpc6vr1w7G9"
     }
 ]
+{
+        "id": 98,
+        "placeOfOrigin": "India",
+        "region": "Maharashtra,Andhrapradesh,Karnataka",
+        "food" : "Puran Poli",
+        "type": "Lunch and Dinner ",
+        "foodEnergy": "291 cal",
+        "rating": "5",
+        "image": "https://www.shutterstock.com/search/puranpoli",
+        
+    }
+]
