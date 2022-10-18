@@ -1216,5 +1216,17 @@
         "image": "https://www.shutterstock.com/search/puranpoli",
         "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
    
-    }
+    },
+	{
+        "id": 99,
+        "placeOfOrigin": "India",
+        "region": "Maharashtra",
+        "city": "Nashik",
+        "food" : "Misal Pav",
+        "type": "Break-Fast",
+        "foodEnergy": "300 cal",
+        "rating": "5",
+        "image": "https://content3.jdmagicbox.com/comp/nashik/q7/0253px253.x253.170720171115.c1q7/catalogue/garden-misal-pav-center-sinnar-nashik-misal-pav-centres-qebbe.jpg",
+        "location": "https://www.google.com/maps/place/Garden+Misal/@19.8496709,73.9881827,18.4z/data=!4m5!3m4!1s0x3bddba4e4a455c7f:0x1a34cd3ff7f55af!8m2!3d19.8480269!4d73.9915842"
+    },
 ]
