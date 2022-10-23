@@ -1250,4 +1250,16 @@
         "location": "All over West Bengal and india"
    
     }
+{
+        "id": 100,
+        "placeOfOrigin": "India",
+        "region": "Sikkim ",
+        "food" : "Thupka",
+        "type": "Lunch and Dinner ",
+        "foodEnergy": "439 cal",
+        "rating": "4",
+        "image": "https://www.google.com/search?q=thukpa+calories&client=ms-android-oppo-rev1&prmd=ivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjT8PnO2Ov6AhVpcGwGHZFCA2wQ_AUoAXoECAEQAQ&biw=424&bih=790&dpr=2.55#imgrc=UZ_4o4CD-sfSeM",
+        "location": "https://www.google.com/maps?q=thukpa+calories&source=lmns&bih=790&biw=424&client=ms-android-oppo-rev1&prmd=ivn&hl=en-US&sa=X&ved=2ahUKEwi9mv7a2Ov6AhVSmOYKHV_0Bl0Q_AUoBHoECAAQBw"
+   
+    }
 ]
