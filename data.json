@@ -1215,7 +1215,16 @@
         "rating": "5",
         "image": "https://www.shutterstock.com/search/puranpoli",
         "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
-   
+    },
+	 {
+        "id": 6,
+        "placeOfOrigin": "India",
+        "region": "Akola",
+        "city": "Akola",
+        "food" : "PaniPuri",
+        "rating": "4",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FUMADIS-Hand-POUNDED-SHENGA-Chutney%2Fdp%2FB07NCVNWM8&psig=AOvVaw0eJ2h3dSImY6PXSVVYA6jB&ust=1664643780949000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiO4Lv_vPoCFQAAAAAdAAAAABAF",
+        "location": "https://goo.gl/maps/A8iNyVH58F4BctcD6"
     },
 	{
         "id": 1198,
@@ -1229,8 +1238,6 @@
         "location": "All over maharashtra and india"
    
     },
-	
-	
 	{
         "id": 1199,
         "placeOfOrigin": "India",
